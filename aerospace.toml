@@ -141,7 +141,7 @@ automatically-unhide-macos-hidden-apps = true
 
     # See: https://nikitabobko.github.io/AeroSpace/commands#balance-sizes
     # Resize - HYPRLAND STYLE
-    cmd-alt-o = 'balance sizes'
+    # cmd-alt-o = 'balance sizes'
 
 
     # # Core window management - HYPRLAND STYLE
